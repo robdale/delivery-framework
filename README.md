@@ -9,5 +9,5 @@ It aims to:
 # Philosophy
 The main philosophies underpinning this framework are derived from the [agile manifesto] (https://agilemanifesto.org/).  The manifesto identifies four core values and twelve principles
 
-..*[Values](https://github.com/robdale/delivery-framework/blob/main/values.md)
-..*[Principles](https://github.com/robdale/delivery-framework/blob/main/principles.md)
+*[Values](https://github.com/robdale/delivery-framework/blob/main/values.md)
+*[Principles](https://github.com/robdale/delivery-framework/blob/main/principles.md)
