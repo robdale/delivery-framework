@@ -25,5 +25,16 @@ The ability to avoid delays when a requirement or feature request changes.
 8. Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
 9. Attention to technical detail and design enhances agility – The right skills and good design ensures the team can maintain the pace, constantly improve the product, and sustain change.
 10. Simplicity – Develop just enough to get the job done for right now.
-11. Self-organizing teams encourage great architectures, requirements, and designs – Skilled and motivated team members who have decision-making power, take ownership, communicate regularly with other team members, and share ideas that deliver quality products.
-12. Regular reflections on how to become more effective – Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently.
+## 11. Self-organizing teams encourage great architectures, requirements, and designs
+Skilled and motivated team members who have decision-making power, take ownership, communicate regularly with other team members, and share ideas that deliver quality products.
+* Give the power to the people! Hold teams accountable to what they say they can and cannot do and then empower them to be successful. Lead instead of direct.Teams will have valuable insight into solutions they have, or currently are, creating. Include them in conversations early and often.
+* De-centralise decision making by empowering teams to make all necessary decisions quickly and iteratively to avoid delays in delighting the customer.
+* Focus on up-playing the strengths of team members and ensure each team collectively has the skill-sets needed to accomplish the work. Value delivered > organisational structure.
+* In adherence with agile principles #1, #2, #3, and #10, it's important to move away from pre-defined project plans. Iterating on the work requires frequent participation from teams and inevitably will result in better solutions. 
+## 12. Regular reflections on how to become more effective
+Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently.
+* Introduce retrospectives! Build in a minimum of two hours between projects (or even better, between iterations/sprints) for teams to come together and reflect.
+* Set ground rules for retrospectives, and stand by them! Identify working agreements that create safety and trust  encouraging candid communication within the team boundary.
+* Task your scrum master with keeping retrospectives interesting, engaging, and productive.
+* Embrace and celebrate failures as learning opportunities. Some of the greatest innovations and most iconic people in history were born out of failure.
+* Capture action items that come out of retrospectives and track the progress and completion of them. Teams will quickly see which things are being addressed (and which aren't). 
