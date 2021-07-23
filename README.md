@@ -16,5 +16,5 @@ The main philosophies underpinning this framework are derived from the [agile ma
 
 ## Contents
 More details on the values and principles and how they should be implemented are at these links:
-+[Delivery Values](https://github.com/robdale/delivery-framework/blob/main/values.md)
-+[Delivery Principles](https://github.com/robdale/delivery-framework/blob/main/principles.md)
++ [Delivery Values](values.md)
++ [Delivery Principles](principles.md)
