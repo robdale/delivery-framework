@@ -8,7 +8,7 @@ It aims to:
 3. Provide resources to support teams to increase their delivery maturity levels
 
 ## Philosophy
-The main philosophies underpinning this framework are derived from the [agile manifesto] (https://agilemanifesto.org/).  This includes four core values:
+The main philosophies underpinning this framework are derived from the [agile manifesto](https://agilemanifesto.org/).  This includes four core values:
 1. Valuing Individuals and Interactions over Processes and Tools
 2. Producing working software over comprehensive documentation
 3. Collaborating with our customer over contract negotiation
