@@ -1,5 +1,5 @@
 # Delivery Framework
-This framework is to outline the approach to delivery for NHS Digital.  It is complementary to and complemented by the software engineering quality framework.
+This framework is to outline the approach to delivery for NHS Digital.  It is complementary to and complemented by the software engineering quality framework (https://github.com/NHSDigital/software-engineering-quality-framework)
 
 It aims to:
 1. Describe a shared (across multiple teams) definition of "good" delivery
