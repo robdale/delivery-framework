@@ -27,6 +27,7 @@ Build projects around motivated individuals. Give them the environment and suppo
 * Asks teams what type of working environment they need to be successful and then create it. It could be as simple as dimming the lights and keeping noise levels low (or high).
 * Start building trust by eliminating micromanagement and instead holding teams accountable to what they believe they can accomplish.
 * Introduce/empower the scrum master role. The scrum master can be one of the most supportive roles within a team. Scrum masters ensure teams have the support they need or escalate quickly when that is not the case. 
+
 ## 6. Enable face-to-face interactions – Communication is more successful when development teams are co-located.
 The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 * Don't shy away from crucial conversations. Create a safe space to encourage teams and individuals to engage in face-to-face conversations even when the subject matter is difficult.
