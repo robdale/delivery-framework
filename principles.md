@@ -19,8 +19,23 @@ The ability to avoid delays when a requirement or feature request changes.
 
 3. Frequent delivery of working software – Scrum accommodates this principle since the team operates in software sprints or iterations that ensure regular delivery of working software.
 4. Collaboration between the business stakeholders and developers throughout the project – Better decisions are made when the business and technical team are aligned.
-5. Support, trust, and motivate the people involved – Motivated teams are more likely to deliver their best work than unhappy teams.
-6. Enable face-to-face interactions – Communication is more successful when development teams are co-located.
+
+## 5. Support, trust, and motivate the people involved – Motivated teams are more likely to deliver their best work than unhappy teams.
+Build projects around motivated individuals. Give them the environment and support they need and trust them to get the job done.
+* More is not always more. Define a sustainable pace that teams can successfully maintain.
+* Introduce/empower the product owner role. Ensure product owners are not only maintaining healthy backlogs, but providing the why behind the work so teams have purpose.
+* Asks teams what type of working environment they need to be successful and then create it. It could be as simple as dimming the lights and keeping noise levels low (or high).
+* Start building trust by eliminating micromanagement and instead holding teams accountable to what they believe they can accomplish.
+* Introduce/empower the scrum master role. The scrum master can be one of the most supportive roles within a team. Scrum masters ensure teams have the support they need or escalate quickly when that is not the case. 
+
+## 6. Enable face-to-face interactions – Communication is more successful when development teams are co-located.
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+* Don't shy away from crucial conversations. Create a safe space to encourage teams and individuals to engage in face-to-face conversations even when the subject matter is difficult.
+* Tear down the barriers! Move desks, tables, walls, etc. into a collaborative formation that brings everyone together in one easily accessible place. 
+( Don't talk to tell, talk to listen. Remember to keep face-to-face conversations relevant and within a timebox to ensure high efficiency and effectiveness when people come together.
+* Tools are good, but face-to-face conversations are great. Only use online collaboration technology/tools as needed and when you do, establish the best possible virtual presence. Turn those cameras on!
+* When possible, co-locate all individuals involved with the work. For teams that cross time zones, create overlap in schedules and availability to allow for virtual face-to-face conversations. 
+
 7. Working software is the primary measure of progress – Delivering functional software to the customer is the ultimate factor that measures progress.
 8. Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
 9. Attention to technical detail and design enhances agility – The right skills and good design ensures the team can maintain the pace, constantly improve the product, and sustain change.
