@@ -18,7 +18,7 @@ The main philosophies underpinning this framework are derived from the [agile ma
 More details on the values and principles and how they should be implemented are at these links:
 + [Delivery Values](values.md)
 + [Delivery Principles](principles.md)
-+ [Example Delivery Model](model.md)
++ [Example 'Good Delivery' Model](model.md)
 
 ## How well is your team working?
 We have created the review approach detailed at the link below for teams to evaluate themselves against this framework and identify areas for improvement.
