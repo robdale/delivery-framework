@@ -1,5 +1,6 @@
 ## Stuff to do
 Review principles for links to include
+
 Model - scrum single team
 * Agile vs Waterfall
 * Overview of process
