@@ -8,5 +8,7 @@ Model - scrum single team
 * Standups
 * Review
 * Retro 
+
 Model - Kanban single team
+
 Model - multiple teams
