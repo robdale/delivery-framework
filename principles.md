@@ -56,8 +56,7 @@ The most efficient and effective method of conveying information to and within a
 
 7. Working software is the primary measure of progress – Delivering functional software to the customer is the ultimate factor that measures progress.
 8. Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
-9. Attention to technical detail and design enhances agility – The right skills and good design ensures the team can maintain the pace, constantly improve the product, and sustain change.
-10. Simplicity – Develop just enough to get the job done for right now.
+
 ## 9. Agile teams that constantly focus on technical excellence and good design are better placed to accommodate unforeseen changes 
  Empower the team to be innovative whilst also aiming to achieve a standard of excellence of technical and design excellence 
 * Change will always be difficult, but the cost of not trying new things or fixing what's broken risks the organisation’s relevancy. Find incremental opportunities for change.
