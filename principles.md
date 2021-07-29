@@ -17,8 +17,22 @@ The ability to avoid delays when a requirement or feature request changes.
 * Seek to understand the customer and the terrain in which the customer operates. This will help navigate changes to enable the customer’s competitive advantage.
 
 
-3. Frequent delivery of working software – Scrum accommodates this principle since the team operates in software sprints or iterations that ensure regular delivery of working software.
-4. Collaboration between the business stakeholders and developers throughout the project – Better decisions are made when the business and technical team are aligned.
+## 3. Frequent delivery of working software
+Scrum accommodates this principle since the team operates in software sprints or iterations that ensure regular delivery of working software.
+* Move toward “vertical slice” user stories that can be completed and delivered end-to-end and independent of other user stories.
+* Shorten sprints/iterations to 1-2 week timeboxes to limit focus, make smaller commitments and deliver completed work quicker.
+* Write smaller user stories that can be completed within a day or no longer than two weeks.
+* Look for incremental opportunities to improve the architecture and system to support more frequent releases.
+* As much as possible, eliminate dependencies outside the team boundary that cause delays.
+
+## 4. Collaboration between the business stakeholders and developers throughout the project
+Better decisions are made when the business and technical team are aligned.
+* Introduce/empower the scrum master role. Scrum masters are expert facilitators and collaborators. They can seamlessly liaise between all aspects of an organisation.
+* Find opportunities for business people and developers observe each other working to help each side understand the challenges the other faces.
+* When possible, co-locate all individuals involved with the work ensuring daily availability.
+* Tear down the barriers! Move desks, tables, walls, etc. into a collaborative formation that brings everyone together in one easily accessible place.
+* Be conscious and sensitive to time zone constraints and find a “golden window” of time when all individuals can come together for at least one hour a day.
+* Be the change. Start by making collaboration a priority and finding time daily to be available so that a culture built on trust can begin to form.
 
 ## 5. Support, trust, and motivate the people involved – Motivated teams are more likely to deliver their best work than unhappy teams.
 Build projects around motivated individuals. Give them the environment and support they need and trust them to get the job done.
