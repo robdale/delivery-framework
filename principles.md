@@ -58,6 +58,22 @@ The most efficient and effective method of conveying information to and within a
 8. Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
 9. Attention to technical detail and design enhances agility – The right skills and good design ensures the team can maintain the pace, constantly improve the product, and sustain change.
 10. Simplicity – Develop just enough to get the job done for right now.
+## 9. Agile teams that constantly focus on technical excellence and good design are better placed to accommodate unforeseen changes 
+ Empower the team to be innovative whilst also aiming to achieve a standard of excellence of technical and design excellence 
+* Change will always be difficult, but the cost of not trying new things or fixing what's broken risks the organisation’s relevancy. Find incremental opportunities for change.
+* Explore possibilities of what could be! Encourage product owners and managers to evolve skill-sets to include design thinking.
+* Create with a purpose, but don't stifle innovation. Understand what needs to be created, but then allow flexibility in how it will be created.
+* Establish a "definition of done" – the standard of excellence that all user stories will abide by and adhere to ensuring as little compromise to technical excellence as possible.
+* Invest in training opportunities to further grow the skill-sets of teams through conferences, workshops, webinars, online/in person courses and cross-team collaboration.
+
+## 10. Keep Product delivery simple
+Start with an MVP and iterate quickly whilst ensuring value is provided with each iteration.
+* Watch. Listen. Stay close. Engage the customer frequently (before, during, and after release) to ensure solutions delight the customer. Not every idea or solution is what they need.
+* Shift from project-based funding models to capacity-based funding models that support minimal viable solutions and avoid set plans that will inevitably change.
+* Eliminate the waste and find the paths of least resistance. Consider "lean thinking", simplify workflows and avoid unnecessary steps in processes.
+* In accordance with agile principles #1 and #3, it's critical to focus on the minimal viable solution to deliver frequently and incrementally to the customer. Focus on delighting the customer with the least amount of time and cost.
+* Name the problem. Scale back to the minimal solution needed to solve the problem. Only enhance the solution when the customer requires it. Follow the lean start-up ideas of measure, build, learn.
+
 ## 11. Self-organizing teams encourage great architectures, requirements, and designs
 Skilled and motivated team members who have decision-making power, take ownership, communicate regularly with other team members, and share ideas that deliver quality products.
 * Give the power to the people! Hold teams accountable to what they say they can and cannot do and then empower them to be successful. Lead instead of direct.Teams will have valuable insight into solutions they have, or currently are, creating. Include them in conversations early and often.
