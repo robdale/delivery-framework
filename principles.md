@@ -54,8 +54,14 @@ The most efficient and effective method of conveying information to and within a
 * Tools are good, but face-to-face conversations are great. Only use online collaboration technology/tools as needed and when you do, establish the best possible virtual presence. Turn those cameras on!
 * When possible, co-locate all individuals involved with the work. For teams that cross time zones, create overlap in schedules and availability to allow for virtual face-to-face conversations. 
 
-7. Working software is the primary measure of progress – Delivering functional software to the customer is the ultimate factor that measures progress.
-8. Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
+## 7. Working software is the primary measure of progress – Delivering functional software to the customer is the ultimate factor that measures progress.
+* Go live! When possible, use live demos in an environment that could be accessible to the customer. 
+* Perform a skill-set analysis and make sure the team has all the skills necessary to provide an end-to-end solution. If not, add someone who does or use this as a training opportunity.
+* Eliminate dependencies where appropriate and ensure teams have identified or mitigated as much risk as possible.
+* Focus on incremental progress by creating user stories that don't exceed the sprint/iteration timebox and leverage the INVEST user story format.
+* Metrics help with decision making, but working solutions that solve customers' problems should be the primary measure of progress. 
+
+## 8. Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
 
 ## 9. Agile teams that constantly focus on technical excellence and good design are better placed to accommodate unforeseen changes 
  Empower the team to be innovative whilst also aiming to achieve a standard of excellence of technical and design excellence 
