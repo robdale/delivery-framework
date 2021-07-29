@@ -1,7 +1,7 @@
 # Principles
 
 ## Contents
-1. [Customer satisfaction through early and continuous software delivery](#1. Customer satisfaction)
+1. [Customer satisfaction through early and continuous software delivery](#1-customer-satisfaction-through-early-and-continuous-software-delivery)
 
 ## 1. Customer satisfaction through early and continuous software delivery
 Customers are happier when they receive working software at regular intervals, rather than waiting extended periods of time between releases.
