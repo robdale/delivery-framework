@@ -62,6 +62,11 @@ The most efficient and effective method of conveying information to and within a
 * Metrics help with decision making, but working solutions that solve customers' problems should be the primary measure of progress. 
 
 ## 8. Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
+* Define a continuous planning lifecycle that balances work weekly, monthly, quarterly, etc. Avoid low and high tides of work to create a steady flow. 
+* Empower teams to set their own pace and allow them to adjust it when appropriate.
+* More functionality may not actually deliver more value to the customer. Be thoughtful about what functionality needs to be completed, and be sure to follow up and verify that the solutions being created are actually providing value.
+*  Find the path of least resistance. Start with or scale back to simple, lean processes and approvals. Only incorporate additional workflows when the desired outcome is not being achieved.
+* Advocate for a pace that promotes continuous delivery. Allow for flexibility within scope or time and focus on a sustainable pace of value being delivered to the customer. 
 
 ## 9. Agile teams that constantly focus on technical excellence and good design are better placed to accommodate unforeseen changes 
  Empower the team to be innovative whilst also aiming to achieve a standard of excellence of technical and design excellence 
