@@ -21,6 +21,9 @@ Scrum Master: The Scrum Master is responsible for making sure the team is as pro
 
 ## How?
 In Scrum we have a series of meetings, known as ceremonies.  How these should be conducted in NHSD is detailed in the separate links.
+
+![image](https://user-images.githubusercontent.com/87422867/127889219-43784d02-eb9a-4392-9624-298ab748f140.png)
+
 Sprint planning meeting: At the start of each sprint, a sprint planning meeting is held, during which the product owner presents the top items on the product backlog to the team. The Scrum team selects the work they can complete during the coming sprint. That work is then moved from the product backlog to a sprint backlog, which is the list of tasks needed to complete the product backlog items the team has committed to complete in the sprint.
 
 Daily Scrum: Each day during the sprint, a brief meeting called the daily scrum is conducted. This meeting helps set the context for each day’s work and helps the team stay on track. All team members are required to attend the daily scrum.
