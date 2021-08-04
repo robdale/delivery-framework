@@ -1,6 +1,8 @@
 ## Stuff to do
 Review principles for links to include
 
+Vision for product
+
 Model - scrum single team
 * Agile vs Waterfall
 * Overview of process
@@ -8,8 +10,16 @@ Model - scrum single team
 * Planning
 * Standups
 * Review
-* Retro 
+* Retro
+* Roles
+  * Scrum Master
+  * Product Owner
+  * Delivery Team
+* Artifacts
+  * Product backlog
 
 Model - Kanban single team
 
 Model - multiple teams
+
+Assessment Tool
