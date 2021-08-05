@@ -1,6 +1,5 @@
 # Principles
 
-## Contents
 1. [Customer satisfaction through early and continuous software delivery](#1-customer-satisfaction-through-early-and-continuous-software-delivery)
 2. [Accomodate changing requirements throughout the development process](#2-accommodate-changing-requirements-throughout-the-development-process)
 3. [Frequent delivery of working software](#3-frequent-delivery-of-working-software)
@@ -102,7 +101,8 @@ Skilled and motivated team members who have decision-making power, take ownershi
 * Give the power to the people! Hold teams accountable to what they say they can and cannot do and then empower them to be successful. Lead instead of direct.Teams will have valuable insight into solutions they have, or currently are, creating. Include them in conversations early and often.
 * De-centralise decision making by empowering teams to make all necessary decisions quickly and iteratively to avoid delays in delighting the customer.
 * Focus on up-playing the strengths of team members and ensure each team collectively has the skill-sets needed to accomplish the work. Value delivered > organisational structure.
-* In adherence with agile principles #1, #2, #3, and #10, it's important to move away from pre-defined project plans. Iterating on the work requires frequent participation from teams and inevitably will result in better solutions. 
+* In adherence with agile principles #1, #2, #3, and #10, it's important to move away from pre-defined project plans. Iterating on the work requires frequent participation from teams and inevitably will result in better solutions.
+ 
 ## 12. Regular reflections on how to become more effective
 Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently.
 * Introduce retrospectives! Build in a minimum of two hours between projects (or even better, between iterations/sprints) for teams to come together and reflect.
