@@ -4,12 +4,7 @@ Review principles for links to include
 Vision for product
 
 Model - scrum single team
-* Agile vs Waterfall
-* Overview of process
-* Pre-planning
 * Planning
-* Standups
-* Review
 * Retro
 * Roles
   * Scrum Master
@@ -17,6 +12,7 @@ Model - scrum single team
   * Delivery Team
 * Artifacts
   * Product backlog
+  * Sprint backlog
 
 Model - Kanban single team
 
