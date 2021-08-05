@@ -31,7 +31,10 @@ The Sprint Review is an inspect-adapt point at the end of the Sprint. During the
 ##  Useful links
 	
 [Sprint Review Meeting](https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-review-meeting)
+
 [Sprint Review](https://www.scruminc.com/sprint-review/)
+
 [Sprint Review Factsheet](https://agility.im/wp-content/uploads/2020/11/AIM_FactSheet_Sprint-Review_V2.2.pdf)
+
 [Sprint Review](https://www.scrumdesk.com/start/manual-for-scrumdesk-start/sprint-review/)
 
