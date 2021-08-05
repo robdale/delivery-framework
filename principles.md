@@ -2,6 +2,17 @@
 
 ## Contents
 1. [Customer satisfaction through early and continuous software delivery](#1-customer-satisfaction-through-early-and-continuous-software-delivery)
+2. [Accomodate changing requirements throughout the development process](#2-accommodate-changing-requirements-throughout-the-development-process)
+3. [Frequent delivery of working software](#3-frequent-delivery-of-working-software)
+4. [Collaboration between the business stakeholders and developers throughout the project](#4-collaboration-between-the-business-stakeholders-and-developers-throughout-the-project)
+5. [Support trust and motivate the people involved](#5-support-trust-and-motivate-the-people-involved)
+6. [Communication is more successful when development teams are co-located](#6-communication-is-more-successful-when-development-teams-are-co-located)
+7. [Working software is the primary measure of progress](#7-working-software-is-the-primary-measure-of-progress)
+8. [Agile processes to support a consistent delivery pace](#8-agile-processes-to-support-a-consistent-delivery-pace)
+9. [Focus on technical excellence and good design](#9-focus-on-technical-excellence-and-good-design)
+10. [Keep product delivery simple](#10-keep-product-delivery-simple)
+11. [Focus on technical excellence and good design](#11-focus-on-technical-excellence-and-good-design)
+12. [Regular reflections on how to become more effective](#12-regular-reflections-on-how-to-become-more-effective)
 
 ## 1. Customer satisfaction through early and continuous software delivery
 Customers are happier when they receive working software at regular intervals, rather than waiting extended periods of time between releases.
@@ -38,7 +49,7 @@ Better decisions are made when the business and technical team are aligned.
 * Be conscious and sensitive to time zone constraints and find a “golden window” of time when all individuals can come together for at least one hour a day.
 * Be the change. Start by making collaboration a priority and finding time daily to be available so that a culture built on trust can begin to form.
 
-## 5. Support, trust, and motivate the people involved – Motivated teams are more likely to deliver their best work than unhappy teams.
+## 5. Support, trust, and motivate the people involved
 Build projects around motivated individuals. Give them the environment and support they need and trust them to get the job done.
 * More is not always more. Define a sustainable pace that teams can successfully maintain.
 * Introduce/empower the product owner role. Ensure product owners are not only maintaining healthy backlogs, but providing the why behind the work so teams have purpose.
@@ -46,7 +57,7 @@ Build projects around motivated individuals. Give them the environment and suppo
 * Start building trust by eliminating micromanagement and instead holding teams accountable to what they believe they can accomplish.
 * Introduce/empower the scrum master role. The scrum master can be one of the most supportive roles within a team. Scrum masters ensure teams have the support they need or escalate quickly when that is not the case. 
 
-## 6. Enable face-to-face interactions – Communication is more successful when development teams are co-located.
+## 6. Communication is more successful when development teams are co-located.
 The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 * Don't shy away from crucial conversations. Create a safe space to encourage teams and individuals to engage in face-to-face conversations even when the subject matter is difficult.
 * Tear down the barriers! Move desks, tables, walls, etc. into a collaborative formation that brings everyone together in one easily accessible place. 
@@ -54,22 +65,24 @@ The most efficient and effective method of conveying information to and within a
 * Tools are good, but face-to-face conversations are great. Only use online collaboration technology/tools as needed and when you do, establish the best possible virtual presence. Turn those cameras on!
 * When possible, co-locate all individuals involved with the work. For teams that cross time zones, create overlap in schedules and availability to allow for virtual face-to-face conversations. 
 
-## 7. Working software is the primary measure of progress – Delivering functional software to the customer is the ultimate factor that measures progress.
+## 7. Working software is the primary measure of progress
+Delivering functional software to the customer is the ultimate factor that measures progress.
 * Go live! When possible, use live demos in an environment that could be accessible to the customer. 
 * Perform a skill-set analysis and make sure the team has all the skills necessary to provide an end-to-end solution. If not, add someone who does or use this as a training opportunity.
 * Eliminate dependencies where appropriate and ensure teams have identified or mitigated as much risk as possible.
 * Focus on incremental progress by creating user stories that don't exceed the sprint/iteration timebox and leverage the INVEST user story format.
 * Metrics help with decision making, but working solutions that solve customers' problems should be the primary measure of progress. 
 
-## 8. Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
+## 8. Agile processes to support a consistent delivery pace
+Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
 * Define a continuous planning lifecycle that balances work weekly, monthly, quarterly, etc. Avoid low and high tides of work to create a steady flow. 
 * Empower teams to set their own pace and allow them to adjust it when appropriate.
 * More functionality may not actually deliver more value to the customer. Be thoughtful about what functionality needs to be completed, and be sure to follow up and verify that the solutions being created are actually providing value.
 *  Find the path of least resistance. Start with or scale back to simple, lean processes and approvals. Only incorporate additional workflows when the desired outcome is not being achieved.
 * Advocate for a pace that promotes continuous delivery. Allow for flexibility within scope or time and focus on a sustainable pace of value being delivered to the customer. 
 
-## 9. Agile teams that constantly focus on technical excellence and good design are better placed to accommodate unforeseen changes 
- Empower the team to be innovative whilst also aiming to achieve a standard of excellence of technical and design excellence 
+## 9. Focus on technical excellence and good design  
+ Empower the team to be innovative whilst also aiming to achieve a standard of excellence of technical and design excellence.  They will be better placed to accommodate unforeseen changes.
 * Change will always be difficult, but the cost of not trying new things or fixing what's broken risks the organisation’s relevancy. Find incremental opportunities for change.
 * Explore possibilities of what could be! Encourage product owners and managers to evolve skill-sets to include design thinking.
 * Create with a purpose, but don't stifle innovation. Understand what needs to be created, but then allow flexibility in how it will be created.
