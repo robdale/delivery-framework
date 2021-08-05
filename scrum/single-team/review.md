@@ -2,8 +2,7 @@
 
 The Sprint Review is an inspect-adapt point at the end of the Sprint. During the Sprint Review, customers and stakeholders examine what the teams built during the Sprint and discuss changes and new ideas. Together the Teams, Product Owner and users/customers/stakeholders decide the direction of the product.
 
-![image](https://user-images.githubusercontent.com/65278782/128000916-c6fbbe86-6fa9-488e-997f-5cdbedc41b31.png)
-
+![image](https://user-images.githubusercontent.com/87422867/128342773-0df2f791-fab5-4916-9339-9d028a90cb8d.png)
 
 ##  Key tips to holding effective Sprint Reviews
 
