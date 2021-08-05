@@ -12,7 +12,9 @@ The biggest difference between Agile and Waterfall is that typically in Agile th
 
 ## What?
 Two artifacts in scrum provide details of what the team will be producing.
+
 Product backlog: The product backlog is a prioritized features list containing every desired feature or change to the product. Note: The term “backlog” can get confusing because it’s used for two different things. To clarify, the product backlog is a list of desired features for the product. 
+
 Sprint backlog: The sprint backlog is a list of tasks to be completed in a sprint.
 
 ## Where?
