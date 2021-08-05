@@ -1,4 +1,6 @@
-# Overview
+# Sprint Review
+
+## Overview
 
 The Sprint Review is an inspect-adapt point at the end of the Sprint. During the Sprint Review, customers and stakeholders examine what the teams built during the Sprint and discuss changes and new ideas. Together the Teams, Product Owner and users/customers/stakeholders decide the direction of the product.
 
@@ -28,8 +30,8 @@ The Sprint Review is an inspect-adapt point at the end of the Sprint. During the
 
 ##  Useful links
 	
-	<https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-review-meeting>
-	<https://www.scruminc.com/sprint-review/>
-	<https://agility.im/wp-content/uploads/2020/11/AIM_FactSheet_Sprint-Review_V2.2.pdf>
-	<https://www.scrumdesk.com/start/manual-for-scrumdesk-start/sprint-review/>
+[Sprint Review Meeting](https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-review-meeting)
+[Sprint Review](https://www.scruminc.com/sprint-review/)
+[Sprint Review Factsheet](https://agility.im/wp-content/uploads/2020/11/AIM_FactSheet_Sprint-Review_V2.2.pdf)
+[Sprint Review](https://www.scrumdesk.com/start/manual-for-scrumdesk-start/sprint-review/)
 
